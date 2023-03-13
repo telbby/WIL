@@ -8,6 +8,8 @@
 - 지용 (0점/10점)
 - 강열 (0점/10점)
 - 인규 (0점/10점)
+- 호빈 (0점/10점)
+- 기석 (0점/10점)
 
 ### WIL
 
@@ -21,4 +23,4 @@
 
 - 📆 2023.00.00 20:00 ~ 21:00
 - 👥 [@Seogeurim](https://github.com/Seogeurim) [@hseoy](https://github.com/hseoy) [@pumpkiinbell](https://github.com/pumpkiinbell) 
-[@jiyong1](https://github.com/jiyong1) [@KangyeolLee](https://github.com/KangyeolLee) [@gomjellie](https://github.com/gomjellie)
+[@jiyong1](https://github.com/jiyong1) [@KangyeolLee](https://github.com/KangyeolLee) [@gomjellie](https://github.com/gomjellie) [@HobinLee](https://github.com/HobinLee) [@Kwongiseok](https://github.com/Kwongiseok)
